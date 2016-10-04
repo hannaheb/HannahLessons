@@ -29,6 +29,6 @@ print('First item', grocery_list[0])
 print(grocery_list)
 other_events = ['wash car','pick up kids','cash check']
 to_do_list = [other_events,grocery_list]
-print(to_do_list)sudo apt-get install xfswitch-plugin
-print((to_do_list[1][1]))sudo apt-get install xfswitch-plugin
+print(to_do_list)
+print((to_do_list[1][1]))
 #commet 10:44 youtube derek benes python programing
